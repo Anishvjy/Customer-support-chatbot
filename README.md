@@ -40,7 +40,7 @@ This project demonstrates how to fine-tune a pre-trained language model for task
 
 To interact with the chatbot:
 
-```bash
+
 python scripts/chatbot.py
 
 ## **Dataset**
